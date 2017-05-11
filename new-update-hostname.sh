@@ -1,5 +1,9 @@
 #!/bin/sh
 
+# Add a bunch of useless comments
+# just to change the file
+#testing this git setup
+
 if [ "$1" = "-h" ]
 then
 echo ""
