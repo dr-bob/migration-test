@@ -2,7 +2,8 @@
 
 # Add a bunch of useless comments
 # just to change the file
-#testing this git setup
+# testing this git setup
+# Why do I have to check this myself?
 
 if [ "$1" = "-h" ]
 then
